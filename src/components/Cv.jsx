@@ -6,7 +6,7 @@ const Cv = () => {
                 <div className="left-side">
                     <img src={dp} className="dp" alt="dp" />
                     <h1 >Tehreem Rani</h1>
-                    <h5>Graphic Designer</h5>
+                    <h5>Website/Graphic Designer</h5>
                     <div className="line"></div>
                     <h3>About me:</h3>
                     <p>A graphic designer is a professional within <br /> the graphic design
